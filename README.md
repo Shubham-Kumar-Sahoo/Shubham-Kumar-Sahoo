@@ -8,7 +8,7 @@ I am quite adept in handling mutiple tasks on daily basis. I am currently seekin
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning:-
+- 🌱 I’m currently learning :-
   * Data Science
   * Python
 - 🤔 I’m looking for opportunities to broaden my skill and to gain experience
