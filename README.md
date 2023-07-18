@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 ## 🔨 My favorite tools
 👨‍💻Programming Languages
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/[ICON SLUG].svg" />
+
+<img height="32" width="32" src="[https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/[ICON SLUG].svg](https://cdn1.iconfinder.com/data/icons/hawcons/32/698682-icon-91-document-file-cpp-512.png)https://cdn1.iconfinder.com/data/icons/hawcons/32/698682-icon-91-document-file-cpp-512.png" />
 
