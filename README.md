@@ -15,6 +15,8 @@ I am quite adept in handling mutiple tasks on daily basis. I am currently seekin
 
 Here are some ideas to get you started:
 -->
+### Talking about Me:
+
 - 🌱 I’m currently learning :-
   * Data Science
   * Python
