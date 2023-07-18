@@ -14,8 +14,8 @@ I am quite adept in handling mutiple tasks on daily basis. I am currently seekin
 **Shubham-Kumar-Sahoo/Shubham-Kumar-Sahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 <img align="right" alt="GIF" src="https://www.turing.com/blog/wp-content/uploads/2022/02/programminng-languages-for-ai-scaled.jpg" width="408" height="318" />
+-->
 
 ### Talking about Me :
 
