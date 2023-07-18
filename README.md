@@ -1,4 +1,4 @@
-# Welcome to [Shubham Kumar Sahoo's](https://github.com/Shubham-Kumar-Sahoo) profile! 
+# Welcome to [Shubham Kumar Sahoo's](https://github.com/Shubham-Kumar-Sahoo) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### Hi there 👋
 I am a Frontend Developer and a Data Science Trainee. I love coding and playing games.
 
