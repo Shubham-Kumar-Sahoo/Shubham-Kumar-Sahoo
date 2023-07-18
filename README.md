@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔨 My favorite tools
+## 🔨 My coding tools
 
 ### 👨‍💻Programming Languages
 
