@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Talking about Me :
 
 - 🌱 I’m currently learning :-
-  * Data Science
+  * Machine Learning
   * Python
 - 🤔 I’m looking for opportunities to broaden my skill and to gain experience
 - 🔭 I’m currently studying in Kalinga Institute of Industrial Technology 
