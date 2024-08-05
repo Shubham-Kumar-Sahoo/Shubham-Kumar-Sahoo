@@ -8,7 +8,7 @@
 &nbsp;
 
 ### Hi there 👋
-I am Shubham Kumar Sahoo, a passionate Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
+I am Shubham Kumar Sahoo, a passionate Frontend Developer and Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. With a CGPA of 9.40, I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
 
 I pride myself on my ability to manage multiple tasks efficiently and am always looking for opportunities to broaden my skills and gain valuable experience. Whether it's collaborating on a project or diving deep into a coding challenge, I'm always up for it!
 
@@ -76,8 +76,16 @@ I pride myself on my ability to manage multiple tasks efficiently and am always 
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
 </p>
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- **JPMC CFG Hackathon:** Selected from over 50,000 applicants to participate in the prestigious JPMC Code for Good (CFG) Hackathon, collaborating on solutions for Indigenous and Frontier Technology Research Centre (IFTR).
-- **InvestX College Fest:** Orchestrated InvestX College Fest, coordinating 20+ student volunteers, and attracting 50+ attendees with a 95% participant satisfaction rate.
-- **Republic Day Parade:** Played a key role in leading our CSE department to its first-ever prize and securing the 2nd position overall in the Republic Day parade.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Kumar-Sahoo&show_icons=true&theme=radical" alt="Shubham's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Kumar-Sahoo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-Kumar-Sahoo&theme=radical&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
