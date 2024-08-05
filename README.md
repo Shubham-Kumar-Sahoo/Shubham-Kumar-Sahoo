@@ -8,7 +8,7 @@
 &nbsp;
 
 ### Hi there 👋
-I am Shubham Kumar Sahoo, a passionate Frontend Developer and Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. With a CGPA of 9.40, I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
+I am Shubham Kumar Sahoo, a passionate Frontend Developer and Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering. I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
 
 I pride myself on my ability to manage multiple tasks efficiently and am always looking for opportunities to broaden my skills and gain valuable experience. Whether it's collaborating on a project or diving deep into a coding challenge, I'm always up for it!
 
