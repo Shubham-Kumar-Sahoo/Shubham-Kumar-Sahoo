@@ -8,18 +8,19 @@
 &nbsp;
 
 ### Hi there 👋
-I am a Frontend Developer and a Data Science Trainee. I love coding and playing games.
+I am Shubham Kumar Sahoo, a passionate Frontend Developer and Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering from Kalinga Institute of Industrial Technology. With a CGPA of 9.40, I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
 
-I am quite adept in handling multiple tasks on daily basis. I am currently seeking training and personal development to broaden my skills further and to gain work experience.
+I pride myself on my ability to manage multiple tasks efficiently and am always looking for opportunities to broaden my skills and gain valuable experience. Whether it's collaborating on a project or diving deep into a coding challenge, I'm always up for it!
 
 ## Talking about Me:
 
 - 🌱 I’m currently learning:
   * Machine Learning
+  * Deep Learning
   * Python
-- 🤔 I’m looking for opportunities to broaden my skill and to gain experience
+- 🤔 I’m looking for opportunities to broaden my skills and gain experience in the tech industry.
 - 🔭 I’m currently studying at Kalinga Institute of Industrial Technology 
-- 💬 Ask me about anything and I am happy to help 
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: shubhamkrsahoo100@gmail.com
 
 ## 🔨 My Coding Tools
@@ -74,44 +75,6 @@ I am quite adept in handling multiple tasks on daily basis. I am currently seeki
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
 </p>
-
-## 📚 Education
-
-### Kalinga Institute of Industrial Technology
-**Bachelor of Science in Computer Science and Engineering** (CGPA: 9.40)  
-**Relevant Coursework:** Data Structures and Algorithms, DBMS, Artificial Intelligence, Operating Systems, Computer Architecture, Software Engineering, Computer Networks, Compiler Design & Object-Oriented Programming
-
-## 💼 Experience
-
-### Vocational Training - Steel Authority of India
-**May 2023 – June 2023 | Asansol, West Bengal**
-- Analyzed product reports to identify key performance metrics and optimization areas, increasing user engagement by 15% in the first quarter.
-- Led a team of 8 to develop and deliver reports, enhancing team collaboration by 30%.
-- Orchestrated go-to-market strategies, managed teams of up to 10 members, and ensured 100% on-time project delivery.
-
-### Web Development Intern - Upskillz
-**January 2022 - February 2022 | Bhubaneswar, Odisha**
-- Engineered a Simon’s game project, achieving a 95% user satisfaction rating in internal testing using HTML, CSS, JavaScript, and React.js.
-- Completed 20+ hours of hands-on training sessions covering HTML, CSS, and JavaScript, and implemented game logic and user interactions to create an engaging and interactive development experience.
-
-### Data Science Intern
-
- - Coincent.ai
-**December 2021 - January 2022 | Bhubaneswar, Odisha**
-- Prepared a predictive model using linear regression, logistic regression, and k-means clustering; achieved 93.5% accuracy in forecasting student marks.
-- Engineered solutions using Python libraries like Scikit-learn, MediaPipe, and OpenCV; increased data processing efficiency by 50% and reduced error rates by 20%.
-
-## 📂 Projects
-
-### Soil Analysis and Farmer Advisory System
-**Technologies Used:** HTML, CSS, Javascript, Bootstrap, JQuery, React.js, Python, Django, MySQL
-- **WebInterface and Data Management:** Collaborated with a team and developed a user-friendly interface with React.js. Worked on a robust backend with Django and MySQL for efficient data management.
-- **Real-time Communication and Additional Features:** Enabled seamless communication between farmers and experts, facilitated timely advice, weather information, visualization, and improved farmers’ decision-making by 40%.
-
-### Music Recommendation System
-**Technologies Used:** HTML, CSS, ReactJS, TailwindCSS, Python, Pandas, Matplotlib/Seaborn, Tensorflow/Keras, Flask
-- **Algorithm Development:** Spearheaded the development of a personalized music recommendation system using machine learning and NLP to analyze user emotions and preferences, achieving 89% accuracy.
-- **API and Web Integration:** Integrated a Flask API for seamless data exchange and collaborated on a website for real-time text-to-emotion analysis and song recommendation based on the emotion.
 
 ## 🏆 Achievements
 
