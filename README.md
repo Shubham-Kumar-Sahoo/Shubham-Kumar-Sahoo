@@ -51,7 +51,7 @@ I pride myself on my ability to manage multiple tasks efficiently and am always 
  <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
  <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
- <a href="#"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-4285F4.svg?logo=mediapipe&logoColor=white"></a>
+ <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-6C6C6C?logo=python&logoColor=white"></a>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
 </p>
 
@@ -76,6 +76,7 @@ I pride myself on my ability to manage multiple tasks efficiently and am always 
  <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
  <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-0052CC.svg?logo=argoproj&logoColor=white"></a>
  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"></a>
+ <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI--CD-blue"></a>
 
 </p>
 
