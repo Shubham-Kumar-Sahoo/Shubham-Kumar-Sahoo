@@ -69,11 +69,14 @@ I pride myself on my ability to manage multiple tasks efficiently and am always 
  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
  <a href="#"><img alt="Mac" src="https://img.shields.io/badge/Mac-000000?logo=apple&logoColor=white"></a>
  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
- <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+ <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
+ <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
+ <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-0052CC.svg?logo=argoproj&logoColor=white"></a>
+ <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"></a>
+
 </p>
 
 ## 📊 GitHub Stats
