@@ -4,7 +4,7 @@
 &nbsp;
 <a href="https://www.instagram.com/im_shubham_34/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_shubham_34" height="30" width="40" /></a>
 &nbsp;
-<a href="https://shubham-kumar-sahoo.github.io/Portfolio-Website/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://shubham-kumar-sahoo.github.io/Portfolio-Website/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="30" width="40" /></a>
 &nbsp;
 
 ### Hi there 👋
