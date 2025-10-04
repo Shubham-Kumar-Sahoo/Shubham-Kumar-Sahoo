@@ -8,18 +8,18 @@
 &nbsp;
 
 ### Hi there 👋
-I am Shubham Kumar Sahoo, a passionate Frontend Developer and Data Science Trainee currently pursuing a Bachelor's degree in Computer Science and Engineering. I have a strong foundation in various domains of computer science, and I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
+I am Shubham Kumar Sahoo, a DevOps Engineer at Pine Labs, specializing in automating software deployment, managing AWS CloudFormation templates, and implementing CI/CD pipelines to enhance development efficiency and operational reliability. I'm constantly seeking to learn and grow. I love coding, exploring new technologies, and playing games in my free time.
 
 I pride myself on my ability to manage multiple tasks efficiently and am always looking for opportunities to broaden my skills and gain valuable experience. Whether it's collaborating on a project or diving deep into a coding challenge, I'm always up for it!
 
 ## Talking about Me:
 
 - 🌱 I’m currently learning:
+  * DevOps
   * Machine Learning
-  * Deep Learning
   * Python
 - 🤔 I’m looking for opportunities to broaden my skills and gain experience in the tech industry.
-- 🔭 I’m currently studying at Kalinga Institute of Industrial Technology 
+- 🔭 I’m currently working at PineLabs
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: shubhamkrsahoo100@gmail.com
 
